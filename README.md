@@ -1,2 +1,2 @@
 # myfirstone
-This is a test
+hi! Iam middle student developer. I can kotlin,java and Html
